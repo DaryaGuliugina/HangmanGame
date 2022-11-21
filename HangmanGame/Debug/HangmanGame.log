@@ -1,11 +1,11 @@
 ﻿  Game.cpp
-C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(65,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(69,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(111,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(156,25): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(160,25): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(185,26): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(292,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(68,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(72,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(114,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(159,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(163,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(188,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dguli\source\repos\HangmanGame\HangmanGame\Game.cpp(295,25): warning C4018: <: несоответствие типов со знаком и без знака
   HangmanGame.cpp
 C:\Users\dguli\source\repos\HangmanGame\HangmanGame\HangmanGame.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   MainMenu.cpp

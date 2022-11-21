@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <windows.h> //Подключаем библиотеку Winmm.lib для доступа к функции PlaySound
 #include "Game.h"
 
